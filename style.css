@@ -38,7 +38,7 @@
     height: 300px;
     list-style-type: none;
     position: absolute;
-    top: 50%;
+    top: 40%;
     transform: translateY(-50%);
     z-index: 1;
     background-position: center;
@@ -67,7 +67,7 @@
   .content {
     width: min(30vw,400px);
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 3rem;
     transform: translateY(-50%);
     font: 400 0.85rem helvetica,sans-serif;
@@ -119,7 +119,7 @@
   
   .nav {
     position: absolute;
-    bottom: 3rem;
+    bottom: 4rem;
     
     left: 50%;
     transform: translateX(-50%);
