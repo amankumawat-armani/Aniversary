@@ -62,7 +62,7 @@ main {
 .content {
   /* width: min(30vw,400px); */
   position: absolute;
-  top: 80%;
+  top: 70%;
   
   transform: translateY(-50%);
   font: 400 0.85rem helvetica,sans-serif;
