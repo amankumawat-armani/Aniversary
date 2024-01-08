@@ -34,7 +34,7 @@ main {
   list-style-type: none;
   position: absolute;
   opacity: 0;
-  top: 80%;
+  
   transform: translateY(-50%);
   z-index: 1;
   background-position: center;
